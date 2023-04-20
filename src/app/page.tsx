@@ -20,7 +20,7 @@ const Home = async () => {
     <main
       className={`flex h-screen items-center justify-center bg-neutral-DarkBlue antialiased ${manrope.className}`}
     >
-      <div className="relative flex h-96 w-[60%] max-w-lg flex-col items-center justify-center rounded-xl bg-neutral-DarkGrayishBlue p-3 text-center">
+      <div className="relative flex h-96 w-[80%] max-w-lg flex-col items-center justify-center rounded-xl bg-neutral-DarkGrayishBlue p-3 text-center">
         <h1 className="mb-6 text-xs font-bold uppercase tracking-widest text-primary-NeonGreen">
           Advice #{data.slip.id}
         </h1>
