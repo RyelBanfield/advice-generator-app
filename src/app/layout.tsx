@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Frontend Mentor - Advice generator app",
-  description: "Advice generator app coding challenge",
+  title: "Advice Generator",
+  description: "Get some random advice",
   icons: {
     icon: "/favicon.ico",
   },
